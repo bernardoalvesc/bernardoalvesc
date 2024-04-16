@@ -11,4 +11,4 @@
 
 Buscando aprender um pouco mais a cada dia.
 
-natus vincere 愛
+
