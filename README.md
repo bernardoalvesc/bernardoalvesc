@@ -20,8 +20,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Contato
-• 📱Telefone: (61) 994281515
-• 📧Email: bernardoalvesdev@gmail.com
+- 📱Telefone: (61) 994281515
+- 📧Email: bernardoalvesdev@gmail.com
 
 Buscando aprender um pouco mais a cada dia.
 
