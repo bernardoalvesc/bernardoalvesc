@@ -5,7 +5,7 @@
 
 ### Quem sou eu?
 
-💻 Desenvolvedor Full Stack com um forte impulso por inovação, dedicação à tecnologia e muita vontade de aprender sempre. Busco sempre agir com um olhar atento à excelência técnica e à otimização das soluções implementadas.
+💻 Desenvolvedor Front-End com um forte impulso por inovação, dedicação à tecnologia e muita vontade de aprender sempre. Busco sempre agir com um olhar atento à excelência técnica e à otimização das soluções implementadas.
 
 🌱 O aprendizado contínuo é o motor que impulsiona minha jornada. Estou sempre à procura de novas oportunidades e tecnologias de ponta. Meu compromisso é sempre executar ações com maestria e dedicação, contribuindo para projetos que definem o futuro digital.
 
@@ -14,10 +14,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React.JS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Contato
 - 📱Telefone: (61) 994281515
