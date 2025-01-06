@@ -17,7 +17,6 @@
 ![React.JS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
 ### Contato
-- 📱Telefone: (61) 994281515
 - 📧Email: bernardoalvesdev@gmail.com
 
 Buscando aprender um pouco mais a cada dia.
