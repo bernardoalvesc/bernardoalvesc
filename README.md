@@ -1,6 +1,5 @@
 ### Olá, me chamo Bernardo Alves, sou estudante de Engenharia de Software na Universidade Católica de Brasília, e sempre fui viciado em tecnologia e inovação.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bernardo.alvesc/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardoalvesdev/)
 
 ### Quem sou eu?
