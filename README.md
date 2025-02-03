@@ -7,7 +7,7 @@
 
 🖥 Desenvolvedor Front-End apaixonado por tecnologia e inovação, com experiência na criação de interfaces modernas, responsivas e funcionais. Trabalho com tecnologias como ReactJS, Tailwind CSS e TypeScript, integrando front-end e back-end de forma eficiente. 
 
-🌿 Tenho interesse em soluções criativas e projetos que envolvam desafios técnicos, especialmente nas áreas de desenvolvimento web e design. Em constante aprendizado, sou bacharelando em Engenharia de Software pela Universidade Católica de Brasília.
+🌿 Tenho interesse em soluções criativas e projetos que envolvam desafios técnicos, especialmente nas áreas de desenvolvimento web e design. Sou bacharelando em Engenharia de Software pela Universidade Católica de Brasília.
 
 🧠 Meu foco é entregar resultados que combinem performance, estética e usabilidade, ajudando empresas e pessoaa a transformarem ideias em experiências digitais marcantes.
 
