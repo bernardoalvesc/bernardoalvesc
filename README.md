@@ -5,7 +5,7 @@
 
 ### Quem sou eu?
 
-🖥 Desenvolvedor Front-End apaixonado por tecnologia e inovação, com experiência na criação de interfaces modernas, responsivas e funcionais. Trabalho com tecnologias como ReactJS, Tailwind CSS e TypeScript, integrando front-end e back-end de forma eficiente. 
+🖥 Desenvolvedor apaixonado por tecnologia e inovação, com experiência na criação de aplicações modernas, responsivas e funcionais. Trabalho com tecnologias como ReactJS, Tailwind CSS e TypeScript, integrando front-end e back-end de forma eficiente. 
 
 🌿 Tenho interesse em soluções criativas e projetos que envolvam desafios técnicos, especialmente nas áreas de desenvolvimento web e design. Sou bacharelando em Engenharia de Software pela Universidade Católica de Brasília.
 
@@ -19,6 +19,7 @@
 ![React.JS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.JS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 
 ### Contato
 - 📧Email: bernardoalvesdev@gmail.com
