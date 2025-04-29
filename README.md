@@ -5,7 +5,7 @@
 
 ### Quem sou eu?
 
-🖥 Desenvolvedor apaixonado por tecnologia e inovação, com experiência na criação de aplicações modernas, responsivas e funcionais. Trabalho com tecnologias como ReactJS, Tailwind CSS e TypeScript, integrando front-end e back-end de forma eficiente. 
+🖥 Desenvolvedor fullstack apaixonado por tecnologia e inovação, com experiência na criação de aplicações modernas, responsivas e funcionais. Trabalho com tecnologias como ReactJS, Tailwind CSS e TypeScript, integrando front-end e back-end de forma eficiente. 
 
 🌿 Tenho interesse em soluções criativas e projetos que envolvam desafios técnicos, especialmente nas áreas de desenvolvimento web e design. Sou bacharelando em Engenharia de Software pela Universidade Católica de Brasília.
 
