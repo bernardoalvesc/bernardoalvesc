@@ -1,26 +1,48 @@
-### Olá, me chamo Bernardo Alves, sou estudante de Engenharia de Software na Universidade Católica de Brasília, e sempre fui um grande entusiasta de tecnologia e inovação
+<h1 align="left">E, aí👋</h1>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardoalvesdev/)
+###
 
-### Sobre mim
+<p align="left">Olá, me chamo Bernardo Alves, sou estudante de Engenharia de Software na Universidade Católica de Brasília, e sempre fui um grande entusiasta de tecnologia e inovação.</p>
 
-🖥 Desenvolvedor fullstack apaixonado por tecnologia e inovação, com experiência na criação de aplicações modernas, responsivas e funcionais. Trabalho com tecnologias como ReactJS, Tailwind CSS e TypeScript, integrando front-end e back-end de forma eficiente. 
+###
 
-🌿 Tenho interesse em soluções criativas e projetos que envolvam desafios técnicos, especialmente nas áreas de desenvolvimento web e design. Sou bacharelando em Engenharia de Software pela Universidade Católica de Brasília.
+<h2 align="left">Sobre mim</h2>
 
-🧠 Meu foco é entregar resultados que combinem performance, estética e usabilidade, ajudando empresas e pessoaa a transformarem ideias em experiências digitais marcantes.
+###
 
+<p align="left">🖥 Desenvolvedor fullstack apaixonado por tecnologia e inovação, com experiência na criação de aplicações modernas, responsivas e funcionais. Trabalho com tecnologias como ReactJS, Tailwind CSS e TypeScript, integrando front-end e back-end de forma eficiente.<br><br>🌿 Tenho interesse em soluções criativas e projetos que envolvam desafios técnicos, especialmente nas áreas de desenvolvimento web e design. Sou bacharelando em Engenharia de Software pela Universidade Católica de Brasília.<br><br>🧠 Meu foco é entregar resultados que combinem performance, estética e usabilidade, ajudando empresas e pessoaa a transformarem ideias em experiências digitais marcantes.</p>
 
-### Skills
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React.JS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.JS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+###
 
-### Contato
-- 📧Email: bernardoalvesdev@gmail.com
+<div align="left">
+  <a href="https://www.linkedin.com/in/bernardoalvesdev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto: bernardoalvesdev@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
-Buscando aprender um pouco mais a cada dia.
+###
 
+<h2 align="left">Skills</h2>
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+</div>
+
+###
+
+<p align="left">Buscando aprender um pouco mais a cada dia.</p>
+
+###
