@@ -1,8 +1,8 @@
-<h1 align="left">E aí👋</h1>
+<h1 align="left">Salve👋</h1>
 
 ###
 
-<p align="left">Olá, me chamo Bernardo Alves, sou estudante de Engenharia de Software na Universidade Católica de Brasília, e sempre fui um grande entusiasta de tecnologia e inovação.</p>
+<p align="left">Me chamo Bernardo Alves, sou estudante de Engenharia de Software na Universidade Católica de Brasília, e sempre fui um grande entusiasta de tecnologia e inovação.</p>
 
 ###
 
