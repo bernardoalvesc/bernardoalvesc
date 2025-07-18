@@ -43,6 +43,6 @@
 
 ###
 
-<p align="left">Buscando aprender um pouco mais a cada dia.</p>
+<p align="left"> • Buscando aprender um pouco mais a cada dia.</p>
 
 ###
