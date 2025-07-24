@@ -1,4 +1,4 @@
-<h1 align="left">Salve👋</h1>
+<h1 align="center">Salve👋</h1>
 
 ###
 
@@ -6,40 +6,40 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/bernardoalvesdev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+<h2 align="center">Sobre mim</h2>
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<p align="left">🖥 Desenvolvedor fullstack apaixonado por tecnologia e inovação, com experiência na criação de aplicações modernas, responsivas e funcionais. Trabalho com tecnologias como ReactJS, Tailwind CSS e TypeScript, integrando front-end e back-end de forma eficiente.<br><br>🌿 Tenho interesse em soluções criativas e projetos que envolvam desafios técnicos, especialmente nas áreas de desenvolvimento web e design. Sou bacharelando em Engenharia de Software pela Universidade Católica de Brasília.<br><br>🧠 Meu foco é entregar resultados que combinem performance, estética e usabilidade, ajudando empresas e pessoas a transformarem ideias em experiências digitais marcantes.</p>
 
 ###
 
-<p align="left">🖥 Desenvolvedor fullstack apaixonado por tecnologia e inovação, com experiência na criação de aplicações modernas, responsivas e funcionais. Trabalho com tecnologias como ReactJS, Tailwind CSS e TypeScript, integrando front-end e back-end de forma eficiente.<br><br>🌿 Tenho interesse em soluções criativas e projetos que envolvam desafios técnicos, especialmente nas áreas de desenvolvimento web e design. Sou bacharelando em Engenharia de Software pela Universidade Católica de Brasília.<br><br>🧠 Meu foco é entregar resultados que combinem performance, estética e usabilidade, ajudando empresas e pessoaa a transformarem ideias em experiências digitais marcantes.</p>
+<h2 align="center">Tecnologias utilizadas</h2>
 
 ###
 
-<h2 align="left">Skills</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
 ###
@@ -50,6 +50,6 @@
 
 ###
 
-<p align="left"> • Buscando aprender um pouco mais a cada dia.</p>
+<p align="center">Buscando aprender um pouco mais a cada dia.</p>
 
 ###
