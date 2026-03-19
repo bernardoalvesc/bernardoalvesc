@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🖥 Desenvolvedor fullstack apaixonado por tecnologia e inovação, com experiência na criação de aplicações modernas, responsivas e funcionais. Trabalho com tecnologias como ReactJS, Tailwind CSS e TypeScript, integrando front-end e back-end de forma eficiente.<br><br>🌿 Tenho interesse em soluções criativas e projetos que envolvam desafios técnicos, especialmente nas áreas de desenvolvimento web e design. Sou bacharelando em Engenharia de Software pela Universidade Católica de Brasília.<br><br>🧠 Meu foco é entregar resultados que combinem performance, estética e usabilidade, ajudando empresas e pessoas a transformarem ideias em experiências digitais marcantes.</p>
+<p align="left">🖥 Desenvolvedor front-end apaixonado por tecnologia e inovação, com experiência na criação de aplicações modernas, responsivas e funcionais. Trabalho com tecnologias como ReactJS, Tailwind CSS e TypeScript, integrando front-end e back-end de forma eficiente.<br><br>🌿 Tenho interesse em soluções criativas e projetos que envolvam desafios técnicos, especialmente nas áreas de desenvolvimento web e design. Sou bacharelando em Engenharia de Software pela Universidade Católica de Brasília.<br><br>🧠 Meu foco é entregar resultados que combinem performance, estética e usabilidade, ajudando empresas e pessoas a transformarem ideias em experiências digitais marcantes.</p>
 
 ###
 
